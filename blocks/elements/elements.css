@@ -9,7 +9,7 @@
   list-style: none;
 }
 
-@media screen and (max-width: 958px) {
+@media screen and (max-width: 767px) {
   .elements {
     padding-right: 19px;
     padding-left: 19px;

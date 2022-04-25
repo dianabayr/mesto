@@ -7,4 +7,4 @@
 - Адаптивность для различной ширины окна браузера
 - Методология БЭМ
 
-Ссылка на GitHub Pages: ''
+Ссылка на GitHub Pages: 'https://dianabayr.github.io/mesto/index.html'
